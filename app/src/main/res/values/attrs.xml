@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FightView">
+        <attr name="fv_edge" format="integer" />
+        <attr name="fv_edgeColor" format="color" />
+        <attr name="fv_innerRadius" format="dimension" />
+        <attr name="fv_level" format="integer" />
+        <attr name="fv_levelAlpha" format="integer" />
+        <attr name="fv_levelColor" format="color" />
+        <attr name="fv_textSize" format="dimension" />
+        <attr name="fv_textColor" format="color" />
+        <attr name="fv_textMargin" format="dimension" />
+        <attr name="fv_values" format="string" />
+    </declare-styleable>
+</resources>
