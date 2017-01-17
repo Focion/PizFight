@@ -5,6 +5,16 @@ FightView是一个战力图控件
 #### Image
 ![avatar](https://raw.githubusercontent.com/Focion/PizRes/master/images/img_fight_view.png)
 
+####
+```gradle
+    repositories {
+			  maven { url 'https://jitpack.io' }
+		}
+    
+    dependencies {
+	        compile 'com.github.Focion:PizFight:1.0.0'
+	  }
+```
 #### Version
 
   - 1.0
