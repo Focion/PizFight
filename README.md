@@ -2,14 +2,14 @@
 
 FightView是一个战力图控件
 
-#### 效果图
+#### Image
 ![avatar](https://raw.githubusercontent.com/Focion/PizRes/master/images/img_fight_view.png)
 
-#### 版本
+#### Version
 
   - 1.0
 
-#### 使用介绍
+#### How to use
 
 ###### xml
 ```xml
@@ -36,7 +36,7 @@ FightView是一个战力图控件
         fightView.setLevels(10, 2, 1, 9, 4);
 ```
 
-#### 属性介绍
+#### attribute
 ```xml
         // 边数
         <attr name="fv_edge" format="integer" />
