@@ -7,13 +7,13 @@ FightView是一个战力图控件
 
 ####
 ```gradle
-    repositories {
-			  maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		maven { url 'https://jitpack.io' }
+	}
     
-    dependencies {
-	        compile 'com.github.Focion:PizFight:1.0.0'
-	  }
+	dependencies {
+		compile 'com.github.Focion:PizFight:1.0.0'
+	}
 ```
 #### Version
 
