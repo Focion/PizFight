@@ -17,7 +17,7 @@ FightView是一个战力图控件
 ```
 #### Version
 
-  - 1.0
+  - 1.0.0
 
 #### How to use
 
