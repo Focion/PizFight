@@ -7,13 +7,13 @@ FightView是一个战力图控件
 
 #### Dependency
 ```gradle
-			repositories {
-					maven { url 'https://jitpack.io' }
-			}
+	repositories {
+		maven { url 'https://jitpack.io' }
+	}
 
-			dependencies {
-					compile 'com.github.Focion:PizFight:1.0.0'
-			}
+	dependencies {
+		compile 'com.github.Focion:PizFight:1.0.0'
+	}
 ```
 #### Version
 
@@ -23,20 +23,20 @@ FightView是一个战力图控件
 
 ###### xml
 ```xml
-			<cn.focion.fight.FightView
-					android:id="@+id/fight_view"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          app:fv_edge="5"
-          app:fv_edgeColor="@android:color/holo_blue_light"
-          app:fv_innerRadius="12dp"
-          app:fv_level="10"
-          app:fv_levelAlpha="100"
-          app:fv_levelColor="@color/colorAccent"
-          app:fv_textColor="@color/colorPrimary"
-          app:fv_textMargin="8dp"
-          app:fv_textSize="14sp"
-          app:fv_values="value1,value2,value3,value4,value5" />
+	<cn.focion.fight.FightView
+		android:id="@+id/fight_view"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		app:fv_edge="5"
+		app:fv_edgeColor="@android:color/holo_blue_light"
+		app:fv_innerRadius="12dp"
+		app:fv_level="10"
+		app:fv_levelAlpha="100"
+		app:fv_levelColor="@color/colorAccent"
+		app:fv_textColor="@color/colorPrimary"
+		app:fv_textMargin="8dp"
+		app:fv_textSize="14sp"
+		app:fv_values="value1,value2,value3,value4,value5" />
 ```
 
 ###### Activity
